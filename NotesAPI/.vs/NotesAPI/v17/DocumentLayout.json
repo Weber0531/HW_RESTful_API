@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|c:\\users\\amy91\\desktop\\code\\restful_api\\notesapi\\notesapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|c:\\users\\amy91\\desktop\\code\\restful_api\\notesapi\\notesapi\\migrations\\20250111114751_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\migrations\\20250111114751_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|c:\\users\\amy91\\desktop\\code\\restful_api\\notesapi\\notesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|c:\\users\\amy91\\desktop\\code\\restful_api\\notesapi\\notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|c:\\users\\amy91\\desktop\\code\\restful_api\\notesapi\\notesapi\\data\\notescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\data\\notescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|c:\\users\\amy91\\desktop\\code\\restful_api\\notesapi\\notesapi\\notesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\notesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|c:\\users\\amy91\\desktop\\code\\restful_api\\notesapi\\notesapi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F8BC66-8F36-41DE-8ABF-6AD29AD33C20}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NotesAPI\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:48:30.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250111114751_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\Migrations\\20250111114751_InitialCreate.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Migrations\\20250111114751_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\Migrations\\20250111114751_InitialCreate.cs",
+              "RelativeToolTip": "NotesAPI\\Migrations\\20250111114751_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:47:52.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "NotesAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\appsettings.json",
+              "RelativeToolTip": "NotesAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T11:47:21.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\Program.cs",
+              "RelativeToolTip": "NotesAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:47:05.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotesContext.cs",
+              "DocumentMoniker": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\Data\\NotesContext.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Data\\NotesContext.cs",
+              "ToolTip": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\Data\\NotesContext.cs",
+              "RelativeToolTip": "NotesAPI\\Data\\NotesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:46:47.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\Models\\Note.cs",
+              "RelativeToolTip": "NotesAPI\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:46:02.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotesAPI",
+              "DocumentMoniker": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\NotesAPI.csproj",
+              "RelativeDocumentMoniker": "NotesAPI\\NotesAPI.csproj",
+              "ToolTip": "C:\\Users\\amy91\\Desktop\\code\\RESTful_API\\NotesAPI\\NotesAPI\\NotesAPI.csproj",
+              "RelativeToolTip": "NotesAPI\\NotesAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T11:43:29.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
