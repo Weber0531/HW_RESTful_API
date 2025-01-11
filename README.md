@@ -4,7 +4,7 @@
 一個簡單的 RESTful API，可用於新增、修改、刪除及查詢記事。
 
 ## 技術棧
-- .NET 6.0
+- .NET 8.0
 - SQLite
 - Entity Framework Core
 - Swagger (API 文件)
