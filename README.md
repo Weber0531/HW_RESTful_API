@@ -21,3 +21,10 @@
 3. 執行專案。
    ```bash
    dotnet run
+
+API 說明
+GET /api/Notes - 取得所有記事。
+GET /api/Notes/{id} - 取得單一記事。
+POST /api/Notes - 新增記事。
+PUT /api/Notes/{id} - 修改記事。
+DELETE /api/Notes/{id} - 刪除記事。
