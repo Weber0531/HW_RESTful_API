@@ -15,7 +15,9 @@
    git clone https://github.com/Weber0531/HW_RESTful_API.git
    
 2. 在專案目錄執行遷移命令。
-dotnet ef database update
+   ```bash
+   dotnet ef database update
 
 3. 執行專案。
-4. dotnet run
+   ```bash
+   dotnet run
